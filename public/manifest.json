@@ -1,6 +1,6 @@
 {
   "name": "ContentMock",
-  "host": "http://localhost:4173/",
+  "host": "https://content-mock-penpot-plugin.netlify.app/",
   "description": "ContentMock for Penpot: Replace design elements with realistic placeholder data like names, numbers, and custom fields for polished prototypes.",
   "code": "/plugin.js",
   "icon": "/icon.png",
